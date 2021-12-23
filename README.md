@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MeetM15
 - 👀 I’m interested in Frontend Web Development and Game Development
-- 💞️ I’m looking to collaborate on Real world prrojects
+- 💞️ I’m looking to collaborate on Real world projects
 - 📫 How to reach me - meet.mistry.work@gmail.com
 
 <!---
