@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @MeetM15
+- 👋 Hi, I’m Meet Mistry
 - 👀 I’m interested in Frontend Web Development and Game Development
-- 💞️ I’m looking to collaborate on Real world projects
+- :electron: I specialise in ReactJS and NextJS .
+- 🧙‍♂️ I have knowledge of web3 and I have also used Web3.js in several projects
+- 🖥️ I have created several real world DAPPS .
+- 🤝 I’m looking to collaborate on Real world projects
 - 📫 How to reach me - meet.mistry.work@gmail.com
 
 <!---
