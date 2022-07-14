@@ -17,11 +17,11 @@
 ###  🛠  Tech Stack
 #### :electron:  C++ , Python , Java , JavaScript
 
-#### :man_technologist: HTML5 CSS tailwind React NextJS Node.js
+#### :man_technologist: HTML5 , CSS , tailwind , React , NextJS 
 
-#### :bulb: Git GitHub FireBase Heroku
+#### :bulb: Git , GitHub , FireBase , Heroku
 
-#### 🔧 Figma VS Code
+#### 🔧 Figma , VS Code
 
 <!---
 MeetM15/MeetM15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
