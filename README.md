@@ -8,7 +8,7 @@
 
 #### :heavy_dollar_sign: I have knowledge of web3 and I have also used Web3.js in several projects
 
-#### 👨‍💻 All of my projects are available at HERE
+#### 👨‍💻 All of my projects are available at [HERE](https://contra.com/meet_mistry)
 
 #### 📫 Reach out to me at meet.mistry.work@gmail.com
 
